@@ -11,3 +11,4 @@ backup
 *.o
 *.swp
 *.swo
+src/version.h
